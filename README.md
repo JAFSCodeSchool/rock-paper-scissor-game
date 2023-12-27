@@ -21,4 +21,4 @@ Follow these steps to get started with the project:
    ```bash
    cd your-repo
 
-3. **Open index.html with a live server:**
+3. **Open index.html with a live server**
